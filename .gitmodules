@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "photobiologyFilters"]
+	path = photobiologyFilters
+	url = https://bitbucket.org/aphalo/photobiologyfilters
+	shallow = true
+	registered = true
+[submodule "photobiologyPlants"]
+	path = photobiologyPlants
+	url = https://bitbucket.org/aphalo/photobiologyplants
+	shallow = true
+	registered = true
+[submodule "photobiologySensors"]
+	path = photobiologySensors
+	url = https://bitbucket.org/aphalo/photobiologysensors
+	shallow = true
+	registered = true
+[submodule "photobiologySun"]
+	path = photobiologySun
+	url = https://bitbucket.org/aphalo/photobiologysun
+	shallow = true
+	registered = true
+[submodule "photobiologyWavebands"]
+	path = photobiologyWavebands
+	url = https://bitbucket.org/aphalo/photobiologywavebands
+	shallow = true
+	registered = true

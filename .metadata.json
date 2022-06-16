@@ -1,0 +1,22 @@
+[
+  {
+    "package": "photobiologyFilters",
+    "oncran": true
+  },
+  {
+    "package": "photobiologyPlants",
+    "oncran": true
+  },
+  {
+    "package": "photobiologySensors",
+    "oncran": true
+  },
+  {
+    "package": "photobiologySun",
+    "oncran": true
+  },
+  {
+    "package": "photobiologyWavebands",
+    "oncran": true
+  }
+]
